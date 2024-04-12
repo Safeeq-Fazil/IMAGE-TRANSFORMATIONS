@@ -165,13 +165,11 @@ plt.show()
 
 
 ![image](https://github.com/Safeeq-Fazil/IMAGE-TRANSFORMATIONS/assets/118680361/a569ee33-6cb0-409d-8409-90fb81b5bcc2)
-![image](https://github.com/Safeeq-Fazil/IMAGE-TRANSFORMATIONS/assets/118680361/a63ca520-e360-4427-bf5e-55ac14fc5a78)
-
 
 
 ### iv)Image Reflection
 ![image](https://github.com/Safeeq-Fazil/IMAGE-TRANSFORMATIONS/assets/118680361/97c03867-2449-4870-8306-f8c0d1024b5f)
-![image](https://github.com/Safeeq-Fazil/IMAGE-TRANSFORMATIONS/assets/118680361/c2787add-1602-4aa7-b035-ce418e913e01)
+
 
 
 
@@ -184,7 +182,6 @@ plt.show()
 
 ### vi)Image Cropping
 ![image](https://github.com/Safeeq-Fazil/IMAGE-TRANSFORMATIONS/assets/118680361/f3337f3c-8b10-432b-9deb-d3f7565c6e03)
-![image](https://github.com/Safeeq-Fazil/IMAGE-TRANSFORMATIONS/assets/118680361/25181ca9-271b-4109-b57a-88200cf3b10a)
 
 
 
